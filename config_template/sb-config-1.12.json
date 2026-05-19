@@ -134,6 +134,18 @@
       "default": "America"
     },
     {
+      "tag":"youtube",
+      "type":"selector",
+      "outbounds":[
+        "HongKong",
+        "TaiWan",
+        "Singapore",
+        "Japan",
+        "America",
+        "Others"
+      ]
+    },
+    {
       "tag":"Google",
       "type":"selector",
       "outbounds":[
